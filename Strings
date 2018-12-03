@@ -1,0 +1,3 @@
+my_string = "Writing code is fun!"
+print len(my_string)
+print my_string.upper()
